@@ -63,7 +63,9 @@ header{
         color: black;
         text-decoration: none;
         font-weight: bold;
+        cursor: pointer;
     }
+
 }
 
 
@@ -83,6 +85,7 @@ header{
     color: black;
     background-color: #f8f8f8;
     border: solid;
+    cursor: pointer;
 }
 
 .option{
@@ -125,7 +128,9 @@ p{
     color: #f8f8f8;
     background-color: #308AF0;
     border: none;
+    cursor: pointer;
 }
+
 
 
 .sponsor_carousel{
@@ -376,6 +381,7 @@ p{
     border: none;
     color: #f8f8f8;
     background-color: #308AF0;
+    cursor: pointer;
 }
 
 .card_content1,.card_content2{
@@ -448,7 +454,8 @@ p{
     margin-top: 40px;
     margin-left: 20px;
     color:black;
-    background-color: #f8f8f8
+    background-color: #f8f8f8;
+    cursor: pointer;
 }
 .get_started{
     padding: 20px 40px;
@@ -458,6 +465,7 @@ p{
     border: none;
     color: #f8f8f8;
     background-color: #308AF0;
+    cursor: pointer;
 }
 
 .solteck_footer{
@@ -475,6 +483,7 @@ p{
     a{
         text-decoration: none;
         color: gray;
+        cursor: pointer;
     }
     h5{
         font-size: larger;
@@ -506,6 +515,7 @@ p{
     color: #308AF0;
     background-color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 hr{
